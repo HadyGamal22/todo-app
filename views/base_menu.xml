@@ -1,0 +1,9 @@
+<odoo>
+    <data>
+        <menuitem name="To-Do App" id="base_menu"
+        web_icon="todo,static/icon.png"
+        />
+        <menuitem name="to-do" id="todo_root_menu" parent="base_menu"/>
+<!--        <menuitem name="configuration" id="base_menu_configration" parent="base_menu"/>-->
+    </data>
+</odoo>
